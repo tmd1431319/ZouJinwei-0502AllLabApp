@@ -1,0 +1,12 @@
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\bin\Debug\LabAss3.exe.config
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\bin\Debug\LabAss3.exe
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\bin\Debug\LabAss3.pdb
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.AssemblyReference.cache
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.SuggestedBindingRedirects.cache
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.Form1.resources
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.Properties.Resources.resources
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.GenerateResource.cache
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.CoreCompileInputs.cache
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.exe
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.pdb
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.frmCustomerPreview.resources
