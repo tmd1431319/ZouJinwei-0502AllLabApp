@@ -53,6 +53,7 @@
       <DependentUpon>Customer Data Entry Screen.cs</DependentUpon>
     </Compile>
     <Compile Include="CustomerValidation.cs" />
+    <Compile Include="frmCustomerDataEntry.cs" />
     <Compile Include="frmCustomerPreview.cs">
       <SubType>Form</SubType>
     </Compile>

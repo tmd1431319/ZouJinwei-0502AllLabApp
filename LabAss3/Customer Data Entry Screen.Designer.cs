@@ -43,7 +43,13 @@
             this.btnPreview = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.cmbCountry = new System.Windows.Forms.ComboBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.dtgCustomer = new System.Windows.Forms.DataGridView();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.lblID = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgCustomer)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -166,9 +172,9 @@
             // 
             // btnPreview
             // 
-            this.btnPreview.Location = new System.Drawing.Point(205, 354);
+            this.btnPreview.Location = new System.Drawing.Point(87, 354);
             this.btnPreview.Name = "btnPreview";
-            this.btnPreview.Size = new System.Drawing.Size(222, 23);
+            this.btnPreview.Size = new System.Drawing.Size(122, 23);
             this.btnPreview.TabIndex = 13;
             this.btnPreview.Text = "Preview";
             this.btnPreview.UseVisualStyleBackColor = true;
@@ -182,11 +188,67 @@
             this.cmbCountry.Size = new System.Drawing.Size(232, 26);
             this.cmbCountry.TabIndex = 14;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(305, 354);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(115, 23);
+            this.button1.TabIndex = 15;
+            this.button1.Text = "Add";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // dtgCustomer
+            // 
+            this.dtgCustomer.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgCustomer.Location = new System.Drawing.Point(531, 140);
+            this.dtgCustomer.Name = "dtgCustomer";
+            this.dtgCustomer.RowHeadersWidth = 62;
+            this.dtgCustomer.RowTemplate.Height = 30;
+            this.dtgCustomer.Size = new System.Drawing.Size(240, 184);
+            this.dtgCustomer.TabIndex = 16;
+            this.dtgCustomer.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgCustomer_CellClick);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(87, 396);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(122, 23);
+            this.button2.TabIndex = 17;
+            this.button2.Text = "Update";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(305, 395);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(115, 23);
+            this.button3.TabIndex = 18;
+            this.button3.Text = "Delete";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // lblID
+            // 
+            this.lblID.AutoSize = true;
+            this.lblID.Location = new System.Drawing.Point(12, 398);
+            this.lblID.Name = "lblID";
+            this.lblID.Size = new System.Drawing.Size(0, 18);
+            this.lblID.TabIndex = 19;
+            this.lblID.Visible = false;
+            this.lblID.Click += new System.EventHandler(this.label4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblID);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.dtgCustomer);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.cmbCountry);
             this.Controls.Add(this.btnPreview);
             this.Controls.Add(this.radioUnmarried);
@@ -201,8 +263,10 @@
             this.Controls.Add(this.groupBox2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgCustomer)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -225,6 +289,11 @@
         private System.Windows.Forms.Button btnPreview;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.ComboBox cmbCountry;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.DataGridView dtgCustomer;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label lblID;
     }
 }
 

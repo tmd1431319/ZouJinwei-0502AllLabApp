@@ -33,11 +33,11 @@
             this.lblGender = new System.Windows.Forms.Label();
             this.lblHobby = new System.Windows.Forms.Label();
             this.lblStatus = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblName
@@ -85,23 +85,23 @@
             this.lblStatus.TabIndex = 4;
             this.lblStatus.Text = "Status";
             // 
-            // label6
+            // label10
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(403, 265);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(89, 18);
-            this.label6.TabIndex = 9;
-            this.label6.Text = "Unmarried";
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(403, 265);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(89, 18);
+            this.label10.TabIndex = 9;
+            this.label10.Text = "Unmarried";
             // 
-            // label7
+            // label9
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(400, 208);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(71, 18);
-            this.label7.TabIndex = 8;
-            this.label7.Text = "Reading";
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(400, 208);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(71, 18);
+            this.label9.TabIndex = 8;
+            this.label9.Text = "Reading";
             // 
             // label8
             // 
@@ -112,34 +112,34 @@
             this.label8.TabIndex = 7;
             this.label8.Text = "Male";
             // 
-            // label9
+            // label7
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(397, 98);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(98, 18);
-            this.label9.TabIndex = 6;
-            this.label9.Text = "Bangladesh";
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(397, 98);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(98, 18);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "Bangladesh";
             // 
-            // label10
+            // label6
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(394, 39);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(53, 18);
-            this.label10.TabIndex = 5;
-            this.label10.Text = "Nabil";
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(394, 39);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(53, 18);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Nabil";
             // 
             // frmCustomerPreview
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label9);
             this.Controls.Add(this.label10);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.lblHobby);
             this.Controls.Add(this.lblGender);
@@ -159,10 +159,10 @@
         private System.Windows.Forms.Label lblGender;
         private System.Windows.Forms.Label lblHobby;
         private System.Windows.Forms.Label lblStatus;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label6;
     }
 }

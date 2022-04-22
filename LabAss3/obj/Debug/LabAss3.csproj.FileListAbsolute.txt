@@ -10,3 +10,4 @@ C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debu
 C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.exe
 C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.pdb
 C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.frmCustomerPreview.resources
+C:\Users\邹金微\source\repos\MyRepos\ZouJinwei-0502AllLabApp\LabAss3\obj\Debug\LabAss3.MDIParent1.resources

@@ -111,5 +111,9 @@ namespace LabAss3
 
         }
 
+        private void MDIParent1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
