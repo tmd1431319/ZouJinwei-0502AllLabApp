@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/ads/adv4.jpg</ImageUrl>
+		<Width>200</Width>
+		<Height>150</Height>
+		<NavigateUrl>http://www.ad4.com</NavigateUrl>
+		<AlternateText>This is ad4</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads2</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/adv5.jpg</ImageUrl>
+		<Width>200</Width>
+		<Height>150</Height>
+		<NavigateUrl>http://www.ad5.com</NavigateUrl>
+		<AlternateText>This is ad5</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads2</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/adv6.jpg</ImageUrl>
+		<Width>200</Width>
+		<Height>150</Height>
+		<NavigateUrl>http://www.ad6.com</NavigateUrl>
+		<AlternateText>This is ad6</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads2</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/adv7.jpg</ImageUrl>
+		<Width>200</Width>
+		<Height>150</Height>
+		<NavigateUrl>http://www.ad7.com</NavigateUrl>
+		<AlternateText>This is ad7</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads2</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/adv8.jpg</ImageUrl>
+		<Width>200</Width>
+		<Height>150</Height>
+		<NavigateUrl>http://www.ad8.com</NavigateUrl>
+		<AlternateText>This is ad8</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads2</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/adv9.jpg</ImageUrl>
+		<Width>200</Width>
+		<Height>150</Height>
+		<NavigateUrl>http://www.ad9.com</NavigateUrl>
+		<AlternateText>This is ad9</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads2</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/BannerAd1.gif</ImageUrl>
+		<Width>900</Width>
+		<Height>100</Height>
+		<NavigateUrl>http://www.Ad1.com</NavigateUrl>
+		<AlternateText>This is Ad1</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads1</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/BannerAd2.gif</ImageUrl>
+		<Width>900</Width>
+		<Height>100</Height>
+		<NavigateUrl>http://www.Ad2.com</NavigateUrl>
+		<AlternateText>This is Ad2</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads1</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/ads/BannerAd3.gif</ImageUrl>
+		<Width>900</Width>
+		<Height>100</Height>
+		<NavigateUrl>http://www.Ad3.com</NavigateUrl>
+		<AlternateText>This is Ad3</AlternateText>
+		<Impressions>25</Impressions>
+		<Keyword>ads1</Keyword>
+	</Ad>
+</Advertisements>
